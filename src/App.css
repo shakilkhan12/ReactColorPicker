@@ -15,9 +15,10 @@ body {
 
 .item {
   width: 20%;
-  height: 200px;
+  height: 150px;
   color: #fff;
-  font-size: 22px;
+  font-size: 18px;
+  font-weight: normal;
   cursor: pointer;
   display: flex;
   align-items: center;
